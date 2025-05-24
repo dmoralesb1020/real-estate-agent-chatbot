@@ -16,8 +16,9 @@ This project was started as the final project for Udacity's Generative AI nanode
 
 ## 🧱 Project Structure
 
+```
 ├── data/
-│ └── chatbot_prompt.txt
+│ ├── chatbot_prompt.txt
 │ └── listings.txt
 ├── notebooks/
 │ └── Real_estate_agent.ipynb
@@ -31,6 +32,7 @@ This project was started as the final project for Udacity's Generative AI nanode
 ├── LICENSE
 ├── requirements.txt
 └── README.md
+```
 
 ## 🛠️ Setup
 

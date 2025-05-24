@@ -1,0 +1,117 @@
+=== Listing ===  
+Property Title: Charming Bungalow in Historic District  
+Location: Charleston, Ansonborough  
+Price: $525,000  
+Bedrooms: 3  
+Bathrooms: 2  
+Square Footage: 1,500 sq ft  
+Key Features: Original hardwood floors, large backyard, updated kitchen, walking distance to downtown  
+Description: This delightful bungalow offers a perfect blend of historic charm and modern convenience. With its spacious backyard and proximity to local shops and restaurants, it’s an ideal home for families and professionals alike.
+
+---
+
+=== Listing ===  
+Property Title: Modern Condo with City Views  
+Location: New York, Lower East Side  
+Price: $1,200,000  
+Bedrooms: 2  
+Bathrooms: 2  
+Square Footage: 1,100 sq ft  
+Key Features: Rooftop terrace, gym, stainless steel appliances, open floor plan  
+Description: Experience urban living at its finest in this stylish condo featuring breathtaking city views. The open layout and luxurious amenities make it a perfect retreat in the heart of the vibrant Lower East Side.
+
+---
+
+=== Listing ===  
+Property Title: Family-Friendly Home in Suburban Oasis  
+Location: Austin, Circle C Ranch  
+Price: $675,000  
+Bedrooms: 4  
+Bathrooms: 3  
+Square Footage: 2,800 sq ft  
+Key Features: Large backyard, community pool, granite countertops, energy-efficient appliances  
+Description: This spacious family home is located in a sought-after community with top-rated schools and amenities. Enjoy the comfort of multiple living spaces and a backyard perfect for kids and pets to play.
+
+---
+
+=== Listing ===  
+Property Title: Cozy Cabin Retreat  
+Location: Lake Tahoe, South Lake Tahoe  
+Price: $450,000  
+Bedrooms: 2  
+Bathrooms: 1  
+Square Footage: 900 sq ft  
+Key Features: Wood-burning fireplace, deck with lake view, hiking trails nearby  
+Description: Escape to this charming cabin nestled in the woods, just a short walk from the lake. Perfect for weekend getaways or year-round living, this retreat offers tranquility and adventure in equal measure.
+
+---
+
+=== Listing ===  
+Property Title: Luxurious Waterfront Villa  
+Location: Miami, Coconut Grove  
+Price: $3,500,000  
+Bedrooms: 5  
+Bathrooms: 4  
+Square Footage: 4,200 sq ft  
+Key Features: Private dock, infinity pool, gourmet kitchen, smart home technology  
+Description: Indulge in luxury living with this stunning waterfront villa boasting panoramic views of the bay. With high-end finishes and an expansive outdoor space, it’s perfect for entertaining or enjoying serene sunsets.
+
+---
+
+=== Listing ===  
+Property Title: Chic Urban Loft  
+Location: San Francisco, SoMa  
+Price: $950,000  
+Bedrooms: 1  
+Bathrooms: 1  
+Square Footage: 1,000 sq ft  
+Key Features: Exposed brick walls, high ceilings, close to public transport, pet-friendly  
+Description: This stylish loft combines modern design with historic elements, making it a unique urban sanctuary. Located in a vibrant neighborhood, it’s ideal for those who appreciate city living with a touch of character.
+
+---
+
+=== Listing ===  
+Property Title: Quaint Cottage Near the Beach  
+Location: Santa Monica, Sunset Park  
+Price: $1,150,000  
+Bedrooms: 2  
+Bathrooms: 1  
+Square Footage: 1,200 sq ft  
+Key Features: Short walk to the beach, renovated bathroom, garden space, garage  
+Description: This adorable cottage is just steps away from the beach and offers a relaxed coastal lifestyle. With its charming garden and updated interiors, it’s perfect for beach lovers and those seeking a laid-back vibe.
+
+---
+
+=== Listing ===  
+Property Title: Spacious Townhome in Gated Community  
+Location: Orlando, Lake Nona  
+Price: $400,000  
+Bedrooms: 3  
+Bathrooms: 2.5  
+Square Footage: 1,800 sq ft  
+Key Features: Community clubhouse, pool, modern kitchen, attached garage  
+Description: Enjoy the security and convenience of this lovely townhome located in a gated community. With access to fantastic amenities and a family-friendly atmosphere, it’s an excellent choice for first-time buyers.
+
+---
+
+=== Listing ===  
+Property Title: Elegant Victorian in the Heart of the City  
+Location: Philadelphia, Rittenhouse Square  
+Price: $2,200,000  
+Bedrooms: 4  
+Bathrooms: 3  
+Square Footage: 3,500 sq ft  
+Key Features: Historic architecture, private garden, gourmet kitchen, high ceilings  
+Description: Step into this beautifully restored Victorian home that perfectly marries historic elegance with modern luxury. Located in a prime area, it offers spacious living and is ideal for entertaining guests.
+
+---
+
+=== Listing ===  
+Property Title: Contemporary Farmhouse on Acreage  
+Location: Nashville, Brentwood  
+Price: $1,750,000  
+Bedrooms: 5  
+Bathrooms: 4  
+Square Footage: 3,600 sq ft  
+Key Features: Wrap-around porch, barn, open-concept living, spacious yard  
+Description: This stunning contemporary farmhouse offers a peaceful retreat on expansive acreage. With its modern amenities and rustic charm, it’s perfect for those looking for a serene lifestyle without sacrificing convenience.
